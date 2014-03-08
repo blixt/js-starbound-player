@@ -13,7 +13,8 @@
     "url": "https://github.com/blixt/js-starbound-player.git"
   },
   "dependencies": {
-    "starbound-files": "~0.7.0",
+    "merge": "~1.1.2",
+    "starbound-files": "~0.7.1",
     "workerproxy": "~0.3.2"
   },
   "peerDependencies": {
